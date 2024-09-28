@@ -61,6 +61,8 @@
   </a>
   <a href="mailto:son7523589@gmail.com">
     <img
-      src="https://img.shields.io/badge/son7523589@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/son7523589@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
+<a href="https://www.instagram.com/jun_sep14/profilecard/?igsh=cTUzMmgzYTNkbzEy">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
 </div>
