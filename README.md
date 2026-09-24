@@ -39,12 +39,10 @@
   <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/spring_boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
 </div>
