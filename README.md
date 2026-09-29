@@ -1,4 +1,26 @@
-<!--내용 부분-->
+<h2 align="center">Hi, I'm Hyeonjun (Jun) Son 👋</h2>
+
+<p align="center">
+Full-stack developer in Toronto — React/TypeScript, Node.js, MongoDB/PostgreSQL.<br/>
+I ship products end to end: one community app live on both app stores and a full-stack web app with a live demo.
+</p>
+
+<p align="center">
+  <a href="https://my-portfolio-website-iota-ashen.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/hyeonjun-son">LinkedIn</a> ·
+  <a href="mailto:son7523589@gmail.com">Email</a>
+</p>
+
+### 🚀 Featured projects
+
+**CaMoim** — community app for Korean students and newcomers across Canada (React Native, Node.js, MongoDB, Socket.io)  
+Live on the [App Store](https://apps.apple.com/app/id6763469709) and [Google Play](https://play.google.com/store/apps/details?id=com.hyeonjun122.cahanin) with 300+ active users: school verification, group meetups, real-time chat, and push notifications.
+
+**Offleash** — neighbourhood community for dog owners ([live demo](https://pet-app-frontend-fawn.vercel.app))  
+[Frontend](https://github.com/HyeonjunSon/petApp-frontend): Next.js 14, TypeScript, RTK Query with optimistic updates, Leaflet maps, Socket.io chat.  
+[Backend](https://github.com/HyeonjunSon/petApp-server): Express with MongoDB + PostgreSQL (Prisma) polyglot persistence, Stripe webhooks, JWT auth, 39 Jest/Supertest tests, CI.
+
+<br>
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <p align="center"><b>Languages</b></p>
