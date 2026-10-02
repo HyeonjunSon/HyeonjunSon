@@ -121,3 +121,5 @@ Live on the [App Store](https://apps.apple.com/app/id6763469709) and [Google Pla
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=HyeonjunSon)
