@@ -1,6 +1,8 @@
 <h2 align="center">Hi, I'm Hyeonjun (Jun) Son 👋</h2>
 
-![Profile views](https://komarev.com/ghpvc/?username=HyeonjunSon)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=HyeonjunSon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">
 Full-stack developer in Toronto — React/TypeScript, Node.js, MongoDB/PostgreSQL.<br/>
