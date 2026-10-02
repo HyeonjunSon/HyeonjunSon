@@ -1,5 +1,7 @@
 <h2 align="center">Hi, I'm Hyeonjun (Jun) Son 👋</h2>
 
+![Profile views](https://komarev.com/ghpvc/?username=HyeonjunSon)
+
 <p align="center">
 Full-stack developer in Toronto — React/TypeScript, Node.js, MongoDB/PostgreSQL.<br/>
 I ship products end to end: one community app live on both app stores and a full-stack web app with a live demo.
@@ -121,5 +123,3 @@ Live on the [App Store](https://apps.apple.com/app/id6763469709) and [Google Pla
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-![Profile views](https://komarev.com/ghpvc/?username=HyeonjunSon)
