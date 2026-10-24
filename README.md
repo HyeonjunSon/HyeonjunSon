@@ -2,7 +2,7 @@
 
 <p align="center">
 Full-stack developer in Toronto — React/TypeScript, Node.js, MongoDB/PostgreSQL.<br/>
-I ship products end to end: one community app live on both app stores and a full-stack web app with a live demo.
+I ship products end to end: one community live on both app stores and the web, and a full-stack web app with a live demo.
 </p>
 
 <p align="center">
@@ -13,8 +13,10 @@ I ship products end to end: one community app live on both app stores and a full
 
 ### 🚀 Featured projects
 
-**CaMoim** — community app for Korean students and newcomers across Canada (React Native, Node.js, MongoDB, Socket.io)  
-Live on the [App Store](https://apps.apple.com/app/id6763469709) and [Google Play](https://play.google.com/store/apps/details?id=com.hyeonjun122.cahanin) with 500+ active users: school verification, group meetups, real-time chat, and push notifications.
+**CaMoim** — community for Korean students and newcomers across Canada ([source](https://github.com/HyeonjunSon/camoim))  
+Live on the [App Store](https://apps.apple.com/app/id6763469709), [Google Play](https://play.google.com/store/apps/details?id=com.hyeonjun122.cahanin) and the [website](https://camoimapp.com) with 500+ active users: school verification, group meetups, real-time chat, a Korean business map, and push notifications.  
+App: React Native (Expo) with OTA updates. Web: Next.js 16, TypeScript, Tailwind, with a backend-for-frontend that keeps the JWT in an httpOnly cookie.  
+API: Express, MongoDB, Socket.io on Railway — 270+ Jest and Node tests in CI, and measured latency work that cut the home feed 60% and chat round trips 49%.
 
 **Offleash** — neighbourhood community for dog owners ([live demo](https://pet-app-frontend-fawn.vercel.app))  
 [Frontend](https://github.com/HyeonjunSon/petApp-frontend): Next.js 14, TypeScript, RTK Query with optimistic updates, Leaflet maps, Socket.io chat.  
