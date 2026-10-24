@@ -14,7 +14,7 @@ I ship products end to end: one community app live on both app stores and a full
 ### 🚀 Featured projects
 
 **CaMoim** — community app for Korean students and newcomers across Canada (React Native, Node.js, MongoDB, Socket.io)  
-Live on the [App Store](https://apps.apple.com/app/id6763469709) and [Google Play](https://play.google.com/store/apps/details?id=com.hyeonjun122.cahanin) with 300+ active users: school verification, group meetups, real-time chat, and push notifications.
+Live on the [App Store](https://apps.apple.com/app/id6763469709) and [Google Play](https://play.google.com/store/apps/details?id=com.hyeonjun122.cahanin) with 500+ active users: school verification, group meetups, real-time chat, and push notifications.
 
 **Offleash** — neighbourhood community for dog owners ([live demo](https://pet-app-frontend-fawn.vercel.app))  
 [Frontend](https://github.com/HyeonjunSon/petApp-frontend): Next.js 14, TypeScript, RTK Query with optimistic updates, Leaflet maps, Socket.io chat.  
